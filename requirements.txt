@@ -14,3 +14,4 @@ pandas>=2.0
 # The app falls back to keyword search automatically and still runs.
 sentence-transformers>=3.0
 scikit-learn>=1.4
+torchvision
