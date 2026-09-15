@@ -184,4 +184,5 @@ def build_agent(model=None, tools=None, checkpointer=None):
 
 
 def has_api_key() -> bool:
-    return bool("GROQ_API_KEY = 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"))
+    return bool("GROQ_API_KEY = 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")
+  
